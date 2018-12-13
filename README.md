@@ -39,8 +39,8 @@ Por exemplo, para os dados a seguir, o Luca gostaria de saber quem ele deve conv
 Lições Aprendidas:
 
 Brainstorm:
-    * Explorar mais a análise do problema antes de começar
-    * Definir métricas para a solução - no caso: Compatibilidade
+ * Explorar mais a análise do problema antes de começar
+ * Definir métricas para a solução - no caso: Compatibilidade
     
 ====================
 
